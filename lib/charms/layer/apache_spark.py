@@ -23,6 +23,7 @@ class Spark(object):
         self.dist_config = dist_config
         self.resources = {
             'spark-1.6.1-hadoop2.6.0': 'spark-1.6.1-hadoop2.6.0',
+            'spark-1.6.1-hadoop2.6.0-scala211': 'spark-1.6.1-hadoop2.6.0-scala211',
         }
 
     def install(self):

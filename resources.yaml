@@ -9,3 +9,7 @@ optional_resources:
     url: https://s3.amazonaws.com/jujubigdata/apache/noarch/spark-1.6.1-bin-without-hadoop-9c7c7427.tgz
     hash: 9c7c74278704dda658c11bef9110fa8fabb5fcff91278a008b27bbd168d69df83589f429f832c56aa775a80d8e125f2e8b41c3a742e5b63452ac2c08b00f6956
     hash_type: sha512
+  spark-1.6.1-hadoop2.6.0-scala211:
+    url: https://dl.dropboxusercontent.com/u/8503756/spark-1.6.1-bin-custom-spark.tgz
+    hash: c879b597004f38f0e7a19bb7d5fdf069154e502eeb78e1a284cc1a19c8642ffa59d762b98df4b936035f8f8de183ed3e9c6e9b5656f8d2a2238a21285494a218
+    hash_type: sha512
